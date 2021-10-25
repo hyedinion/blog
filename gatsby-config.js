@@ -1,13 +1,12 @@
 module.exports = {
   siteMetadata: {
-    siteUrl: "https://jihae-na.netlify.app/",
-    title: "Na 블로그",
-    description: "Na의 기술 블로그",
-    author: "Jihae Na",
+    siteUrl: "https://hyedinion.netlify.app/",
+    title: "Hyedinion 블로그",
+    description: "공부한것을 정리하자",
+    author: "Hyejin Jung",
     socials: {
-      email: "njnjh0317@gmail.com",
-      github: "njh0317",
-      instagram: "n___aj22"
+      email: "ja03129@naver.com",
+      github: "hyedinion",
     },
     categories: [
       {
